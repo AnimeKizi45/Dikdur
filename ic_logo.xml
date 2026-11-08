@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DikDur logosu (logo.svg'nin Android vektör karşılığı) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="512" android:viewportHeight="512">
+    <path android:fillColor="#E8F1FC" android:strokeColor="#2F7BD9" android:strokeWidth="10"
+        android:pathData="M126,16 H386 A110,110 0 0 1 496,126 V386 A110,110 0 0 1 386,496 H126 A110,110 0 0 1 16,386 V126 A110,110 0 0 1 126,16 Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#2F7BD9" android:strokeWidth="16"
+        android:pathData="M184,66 H328 A38,38 0 0 1 366,104 V408 A38,38 0 0 1 328,446 H184 A38,38 0 0 1 146,408 V104 A38,38 0 0 1 184,66 Z" />
+    <path android:strokeColor="#2F7BD9" android:strokeWidth="10" android:strokeLineCap="round"
+        android:pathData="M226,96 H286" />
+    <path android:fillColor="#2F7BD9"
+        android:pathData="M256,140 A40,40 0 1 1 255.9,140 Z" />
+    <path android:strokeColor="#2F7BD9" android:strokeWidth="26" android:strokeLineCap="round"
+        android:pathData="M256,218 V290" />
+    <path android:fillColor="#2F7BD9"
+        android:pathData="M170,410 L170,360 Q170,300 256,296 Q342,300 342,360 L342,410 Z" />
+    <path android:fillColor="#1FA34A" android:strokeColor="#FFFFFF" android:strokeWidth="10"
+        android:pathData="M372,326 A62,62 0 1 1 371.9,326 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="14" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M342,388 l22,22 l40,-44" />
+</vector>
